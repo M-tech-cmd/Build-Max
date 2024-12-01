@@ -1,18 +1,19 @@
 # Build Max
 
-Welcome to Build Max! This project is focused on providing comprehensive solutions for construction management. Our goal is to streamline the construction process, making it more efficient and effective.
+Welcome to Build Max! This project is a template designed for construction companies to showcase their services, projects, and teams. We aim to provide a professional and user-friendly website template for construction companies to establish their online presence.
 
 Check out the live project here
 
 ## Description
-Build Max is a construction management platform designed to help contractors, project managers, and construction companies manage their projects from start to finish. With features like project tracking, resource management, and real-time collaboration, Build Max aims to simplify the complexities of construction projects. mm
+Build Max is a modern and responsive website template tailored for construction companies. It includes sections for company information, services offered, completed projects, team members, and contact details. This template is designed to help construction companies effectively communicate their expertise and attract potential clients.
 
 ## Features
-- Project Tracking: Keep track of project progress, deadlines, and milestones.
-- Resource Management: Efficiently manage materials, equipment, and labor.
-- Real-Time Collaboration: Collaborate with team members and stakeholders in real-time.
-- Budget Management: Monitor and control project budgets and expenses.
-- Reporting and Analytics: Generate detailed reports and gain insights into project performance.
+- Home Page: A welcoming introduction to the company.
+- About Us: Detailed information about the company's history, mission, and values.
+- Services: A comprehensive list of services offered by the company.
+- Projects: Showcase of completed and ongoing projects with images and descriptions.
+- Team: Introduce the key team members and their roles and bios.
+- Contact: Contact form and company contact information for inquiries.
 
 ## Technologies Used
 - HTML
@@ -29,10 +30,4 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/M-tech-cmd/Build_Max.git
-
-
-
-
-Uploading bandicam 2024-12-01 06-32-45-582 (2).mp4…
-
 
