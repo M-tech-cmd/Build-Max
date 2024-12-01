@@ -29,3 +29,10 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/M-tech-cmd/Build_Max.git
+
+
+
+
+Uploading bandicam 2024-12-01 06-32-45-582 (2).mp4…
+
+
