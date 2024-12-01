@@ -5,7 +5,7 @@ Welcome to Build Max! This project is focused on providing comprehensive solutio
 Check out the live project here
 
 ## Description
-Build Max is a construction management platform designed to help contractors, project managers, and construction companies manage their projects from start to finish. With features like project tracking, resource management, and real-time collaboration, Build Max aims to simplify the complexities of construction projects.
+Build Max is a construction management platform designed to help contractors, project managers, and construction companies manage their projects from start to finish. With features like project tracking, resource management, and real-time collaboration, Build Max aims to simplify the complexities of construction projects. mm
 
 ## Features
 - Project Tracking: Keep track of project progress, deadlines, and milestones.
@@ -29,5 +29,3 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/M-tech-cmd/Build_Max.git
-   
-Project Link:https://github.com/M-tech-cmd/Build_Max
