@@ -1,0 +1,17 @@
+To complete your Dependabot configuration, you’ll need to specify the package ecosystems you want to update. Here are some common values you can use for the package-ecosystem field:
+
+npm: For Node.js projects
+pip: For Python projects
+maven: For Java projects
+gradle: For Gradle projects
+nuget: For .NET projects
+composer: For PHP projects
+docker: For Docker images
+github-actions: For GitHub Actions
+Here’s an example configuration for an npm project:
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
