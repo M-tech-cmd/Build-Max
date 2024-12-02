@@ -31,3 +31,4 @@ To get a local copy up and running, follow these simple steps.
    ```sh
    git clone https://github.com/M-tech-cmd/Build_Max.git
 
+![image alt](https://github.com/M-tech-cmd/Build-Max/blob/8646160bb64703b6a2c8b00c6468029787c61d24/Screenshot_2-12-2024_25327_127.0.0.1.jpeg)
